@@ -16,16 +16,12 @@ Words cannot be proper nouns or hyphenated
 No cussing either, sorry
 Use all letters to solve!
 
- -- K -- R -- A --
-|                 |
-C                 H
-|                 |
-L                 D
-|                 |
-O                 P
-|                 |
- -- B -- I -- S --
-
+<pre>    K   R   A 
+C              H
+L              D
+O              P
+    B   I   S 
+</pre>
 
 You will be programming this game, so let’s start with decomposing the algorithms.
 
