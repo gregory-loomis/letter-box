@@ -1,5 +1,4 @@
-# letter-box
-## Letter Boxed Game
+# Letter Boxed Game
 Letter Boxed is a game created by the New York Times. The rules are listed below. Technically there is no “winning” in the rules, but ther real goal is to use all of the letters in just 2 words. 
 
 Start slowly to get the hang of it. 
